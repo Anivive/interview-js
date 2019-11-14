@@ -24,7 +24,7 @@ ng serve
 
 ### Vanilla JS
 
-In the *vanilla* folder you will find an index.html and index.js file. 
+In the ```vanilla``` folder you will find an index.html and index.js file. 
 We are using ParcelJS as a web application bundler.
                                                                                                   
 
