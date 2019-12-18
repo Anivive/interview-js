@@ -1,5 +1,5 @@
 # JS Interview Project 
-Create an UI web application that retrieves and displays the user repositories and organisations in Github.
+Create an UI web application that retrieves and displays the user repositories and organizations in Github.
 
 ## Starting the project
 You may choose to do this project in Vue, Angular, or use vanilla Javascript.
