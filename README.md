@@ -18,8 +18,7 @@ npm run serve
 In the ```angular``` folder is a fresh project created with Angular CLI using the SASS stylesheet option.
 
 ```
-cd angular
-ng serve
+cd angular && npm install && ng serve
 ```
 
 ### Vanilla JS
