@@ -29,7 +29,7 @@ cd vue && npm run serve
 
 ### React
 
-In the ```react``` folder is a fresh project created with Vue CLI.
+In the ```react``` folder is a fresh project created with ```create-react-app```.
 
 ```
 cd react && npm start
